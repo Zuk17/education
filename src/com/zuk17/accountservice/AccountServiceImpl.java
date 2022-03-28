@@ -1,4 +1,4 @@
-package com.zuk17.buzz;
+package com.zuk17.accountservice;
 
 interface AccountService {
     /**
